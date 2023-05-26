@@ -1,0 +1,8 @@
+git inti - inicializa o repostitório Git (necessário)
+git add - prepara os arquivos para serem commitados
+git commit -m "message" - faz o commit dos arquivos preparados
+git --global user.name - identifica o usuario
+git --global user.email - identifica o email do usuario
+git status - mostra os arquivos
+git rm --cached <file> - retira o arquivo do cache para commit
+
