@@ -8,3 +8,4 @@ git rm --cached <file> - retira o arquivo do cache para commit
 .gitignore - para listar os arquivos q não serão commitados, geralmente
 git branch <nome> - para criar um novo branch
 git checkout <branch> - para trocar de branch
+git merge <branch desenvolvida> - para subir a alteração criada na outra branch
