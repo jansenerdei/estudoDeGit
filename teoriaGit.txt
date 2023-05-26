@@ -5,4 +5,6 @@ git --global user.name - identifica o usuario
 git --global user.email - identifica o email do usuario
 git status - mostra os arquivos
 git rm --cached <file> - retira o arquivo do cache para commit
-
+.gitignore - para listar os arquivos q não serão commitados, geralmente
+git branch <nome> - para criar um novo branch
+git checkout <branch> - para trocar de branch
